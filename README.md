@@ -2,7 +2,7 @@ I'm a self-taught passionate FullStack developer from Brazil 🇧🇷
 
 **About me**
 
-- 💼 FullStack Engineer at [PlantScanner](http://plantscanner.io/)
+- 💼 FullStack Engineer
 
 - 🗒 Writer on [Medium](https://medium.com/@fabianosanttana)
 
