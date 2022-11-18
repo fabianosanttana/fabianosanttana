@@ -2,7 +2,7 @@ I'm a self-taught passionate FullStack developer from Brazil 🇧🇷
 
 **About me**
 
-- 💼 FullStack Engineer at [Razorpay](http://razorpay.com/)
+- 💼 FullStack Engineer at [PlantScanner](http://plantscanner.io/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
