@@ -4,7 +4,9 @@ I'm a self-taught passionate FullStack developer from Brazil 🇧🇷
 
 - 💼 FullStack Engineer at [PlantScanner](http://plantscanner.io/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 🗒 Writer on [Medium](https://medium.com/@fabianosanttana)
+
+- 📈 Built flutter articles, **50m+** hits • **100K** reads on Medium
 
 - ❤️ I love writing TypeScript, C# language and design stuffs
 
