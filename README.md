@@ -6,7 +6,7 @@ I'm a self-taught passionate FullStack developer from Brazil 🇧🇷
 
 - 🗒 Writer on [Medium](https://medium.com/@fabianosanttana)
 
-- 📈 Built flutter articles, **50m+** hits • **100K** reads on Medium
+- 📈 Built flutter articles, **2m+** hits • **100K** reads on Medium
 
 - ❤️ I love writing TypeScript, C# language and design stuffs
 
